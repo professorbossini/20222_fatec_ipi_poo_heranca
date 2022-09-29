@@ -1,3 +1,4 @@
+package old2;
 public class TesteHeranca1 {
   public static void main(String[] args) {
     //vejamos se alunos de graduação têm nome e idade
